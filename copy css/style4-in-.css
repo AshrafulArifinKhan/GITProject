@@ -1,0 +1,23 @@
+h1
+{ text-transform: capitalize;
+  text-align: center;
+  color: rgb(193, 74, 114);
+  padding: 25px;
+  border: 2px solid green;
+  border-radius: 20px;
+}
+div
+{height: 50px;width: 220px;
+  background-color: bisque;
+  border-color: rgb(1, 129, 249);
+  border-style: solid;
+  margin-top: 50px;
+  text-align:center;
+  padding: 25px; 
+  padding-right: 10px;
+}
+button
+{margin: bottom 250px;
+  background-color: aqua;
+  box: shadow 10px;
+}

@@ -1,0 +1,22 @@
+div{
+  height: 50px;color: yellow(222, 186, 9);
+ 
+  
+  background-color: hsl(180, 41%, 21%);border-color: white;border-width: 5px;
+border-style: solid; 
+}
+.nm,.lm,.mm
+{text-decoration:none;color: white;
+
+}
+button{background-color: yellow;}
+
+input{color: #000000;}
+
+#id{ text-decoration: none;
+  text-align:left ;
+  color: yellow;
+   font-size: 25px;}
+   a{margin: 80px;}
+
+  body{background-color: rgb(0, 0, 0);}

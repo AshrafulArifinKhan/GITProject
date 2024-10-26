@@ -1,0 +1,12 @@
+h1{ text-align: center;color:red ;text-decoration: wavy underline rgb(118, 80, 255);}
+h2{
+  font-weight: 900;font-family: Arial, Helvetica, sans-serif ;
+}
+h3{
+  font-weight: 800;
+}
+h4{
+  font-weight: 450;
+}
+.p1{font-family:Georgia, 'Times New Roman', Times, serif ;color: chartreuse;background-color: black;}
+q{background-color: aqua;margin-top: 15px;}
